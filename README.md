@@ -135,8 +135,6 @@ Full list available in `requirements.txt`
 - [ ] Improve response accuracy
 - [ ] Add export functionality
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 - LangChain team for the excellent RAG implementation
