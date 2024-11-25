@@ -53,7 +53,7 @@ conda activate doc-chatbot
 ```
 
 3. **Install Ollama**
-- Visit [Ollama's website](https://ollama.ai)
+- Visit [Ollama's website]([https://ollama.ai](https://ollama.com/library/llama3.2))
 - Follow installation instructions for your OS
 - Pull the required model:
 ```bash
@@ -135,8 +135,6 @@ Full list available in `requirements.txt`
 - [ ] Improve response accuracy
 - [ ] Add export functionality
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 - LangChain team for the excellent RAG implementation
