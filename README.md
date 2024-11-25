@@ -1,7 +1,7 @@
 # Saheta-Chatbot 🐺
 
 ## Overview
-An intelligent chatbot application that uses Retrieval-Augmented Generation (RAG) to answer questions about PDF documents. Built with Streamlit, LangChain, and Ollama, this application provides an interactive interface for document analysis and Q&A.
+An intelligent chatbot application that uses Retrieval-Augmented Generation (RAG) to answer questions about PDF documents. Also the PDF document can be viewed and navigate to specific page you want to ask about. Built with Streamlit, LangChain, and Ollama, this application provides an interactive interface for document analysis and Q&A.
 
 ## Features 🌟
 - **Document Processing**
@@ -15,6 +15,7 @@ An intelligent chatbot application that uses Retrieval-Augmented Generation (RAG
   - Interactive chat interface
   
 - **User Management**
+  - Look at specific page of document while asking questions
   - User information capture
   - Data validation
   - JSON-based storage
